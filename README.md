@@ -17,14 +17,16 @@ distributed tracing context
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/opentracing-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/opentracing-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/opentracing-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/opentracing-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/opentracing-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/opentracing-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/opentracing-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/opentracing-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/opentracing-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/opentracing-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/opentracing-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/opentracing-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/opentracing/badges/version.svg)](https://anaconda.org/conda-forge/opentracing)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/opentracing/badges/downloads.svg)](https://anaconda.org/conda-forge/opentracing)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-opentracing-green.svg)](https://anaconda.org/conda-forge/opentracing) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/opentracing.svg)](https://anaconda.org/conda-forge/opentracing) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/opentracing.svg)](https://anaconda.org/conda-forge/opentracing) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/opentracing.svg)](https://anaconda.org/conda-forge/opentracing) |
 
 Installing opentracing
 ======================
