@@ -1,7 +1,7 @@
 {% set name = "opentracing" %}
-{% set version = "2.1.0" %}
+{% set version = "2.2.0" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "4256a2f891fb5037a70ba2b0b08bd3103ef99b366e0df97fab24d100531dd0ee" %}
+{% set hash_value = "cfd231ba5c58f90bc277787e62861eb0c6e4af76e42957bec240bbdf71fb7e0e" %}
 
 package:
   name: {{ name|lower }}
